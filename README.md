@@ -24,6 +24,13 @@ It helps to understand **top songs, top artists, total streams, and listening tr
 To make it easy to see which music performs best and understand listening patterns.
 
 ### 🎥 Project Demo
+<p align="center">
+  <img src="Home.png" width="30%" />
+  <img src="Overview.png" width="30%" />
+  <img src="Artist.png" width="30%" />
+  <img src="Songs.png" width="30%" />
+
+</p>
 
 
 ## 👤 Created By
