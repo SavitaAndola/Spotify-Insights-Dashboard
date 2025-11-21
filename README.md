@@ -24,9 +24,7 @@ It helps to understand **top songs, top artists, total streams, and listening tr
 To make it easy to see which music performs best and understand listening patterns.
 
 ### 🎥 Project Demo
-Watch the dashboard in action ⬇️
 
-https://github.com/SavitaAndola/Spotify-Insights-Dashboard/blob/main/Demo.mp4
 
 ## 👤 Created By
 **Savita Andola**  
